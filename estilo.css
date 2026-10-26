@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(238, 213, 209);
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+html {
+    height: 100%;
+}
+
+p {
+    flex: 1;
+}
+
+footer {
+    background-color: rgb(73, 34, 28);
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
